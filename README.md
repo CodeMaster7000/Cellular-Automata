@@ -1,3 +1,3 @@
-# Cellular Automaton
+# Cellular Automata
 
-A Python cellular automaton script.
+Python cellular automata scripts.
