@@ -1,3 +1,3 @@
 # Cellular Automata
 
-Python cellular automata scripts.
+A set of scripts relating to cellular automaton.
